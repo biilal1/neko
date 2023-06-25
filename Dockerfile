@@ -1,7 +1,7 @@
 FROM Tepthonee/PPF22:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Tepthonee/PPF22/tree/master.git /root/zthon
+RUN git clone https://github.com/biilal1/sed/tree/master.git /root/zthon
 #working directory 
 WORKDIR /root/zthon
 
